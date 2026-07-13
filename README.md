@@ -1,6 +1,7 @@
 Personal Health Monitor
 
 Project Overview
+
 Personal Health Monitor** is a Python-based console application developed to help users monitor and manage their personal health. The application provides essential health assessment tools through a simple menu-driven interface, allowing users to calculate their Body Mass Index (BMI), track daily water intake, monitor calorie consumption, and access blood group compatibility information.
 
 Objectives
